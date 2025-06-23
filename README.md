@@ -6,13 +6,11 @@ A modern and responsive e-commerce website for stylish clothing lovers. Built wi
 
 🔗 [View the Website](https://antonious-sameh.github.io/E-commerce_html_css_js/)
 
-> Replace the link above with your GitHub Pages link after deployment.
 
 ## 📸 Preview
 
 ![Website Preview](Screenshot1.png)
 
-> Upload a screenshot of your homepage as `preview.png` in the repo root.
 
 ## 💼 Features
 
